@@ -6,4 +6,4 @@ This is my personal github.io page. I created it to host links to or blog about 
     ![Resume5-21](./images/Resume5-21.png)
 </details>
 
-![Resume5-21](./images/Resume5-21.png)
+![Resume5-21](/images/Resume5-21.png)
