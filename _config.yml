@@ -1,6 +1,10 @@
-theme: minima
 title: Alex Polywka
-description: Software Developer
 author: 
   name: Alex Polywka
   email: apolywka@gmail.com
+description: Software Developer with a Bachelor's degree from the University of Washington, Seattle.
+
+social links:
+  github: relliko
+
+theme: minima
