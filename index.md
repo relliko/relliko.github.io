@@ -3,7 +3,10 @@ This is my personal github.io page. I created it to host links to or blog about 
 # My resume as of 5/21
 <details>
     <summary> Click to expand and view my résumé</summary>
-    ![Resume5-21](./images/Resume5-21.png)
+    <p>
+        <img src ="./images/Resume5-21.png" />
+        ![Resume5-21](./images/Resume5-21.png)
+    </p>
 </details>
 
 ![Resume5-21](/images/Resume5-21.png)
