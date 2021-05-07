@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi. My name is Alex Polywka. My pronouns are he/him. I am a software developer with a preference for low-level development such as embedded sytems and operating systems. 
+I grew up in a low-income, single-parent household and unfortunately ended up dropping out of high school due to mental health issues. I moved 
+to Washington state at the age of 17 and after some time spent there I decided I wanted to make a major change in the direction of my life and 
+completed my GED with honors in every category. With that momentum, I attended Olympic College in Bremerton, WA where I achieved a GPA over 3.8
+which was enough for me to transfer into the University of Washington's Paul G. Allen school in Seattle where I completed my Bachelor of Science 
+in Computer Science. 
