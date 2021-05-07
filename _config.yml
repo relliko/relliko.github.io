@@ -18,7 +18,6 @@ author:
   name: Alex Polywka
   email: apolywka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site/blog of software developer Alex Polywka. 
   Made with Jekyll using a slightly modified version of the 
   minima theme and hosted on github.io
 baseurl: "" # the subpath of your site, e.g. /blog
