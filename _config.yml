@@ -6,6 +6,8 @@ description: Software Developer with a Bachelor of Science in computer science f
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+remote-theme: jekyll/minima
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -50,4 +52,3 @@ minima:
 #header_pages:
 # - about.md
 
-remote-theme: jekyll/minima
