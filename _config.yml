@@ -1,5 +1,6 @@
 theme: minima
 title: Alex Polywka
 description: Software Developer
-author: Alex Polywka
-email: apolywka@gmail.com
+author: 
+  name: Alex Polywka
+  email: apolywka@gmail.com
