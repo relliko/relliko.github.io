@@ -50,4 +50,4 @@ minima:
 #header_pages:
 # - about.md
 
-theme: minima
+remote-theme: jekyll/minima
