@@ -5,8 +5,4 @@
 layout: home
 ---
 
-# Hi
-
-## Welcome to my page. If you want to know more about me or view my résumé, check out the links in the header.
-
----
+Welcome to my page. If you want to know more about me or view my résumé, check out the links in the header.
