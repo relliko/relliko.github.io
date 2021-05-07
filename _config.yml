@@ -16,7 +16,8 @@
 title: Alex Polywka
 email: apolywka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site/blog of software developer Alex Polywka. Made with Jekyll and hosted on github.io
+  Personal site/blog of software developer Alex Polywka. 
+  Made with Jekyll and hosted on github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -39,3 +40,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  skin: dark
