@@ -1,7 +1,7 @@
 ---
-layout:  page
-title:  "My résumé"
-permalink:  /resume/
+layout: page
+title: "My résumé"
+permalink: /resume/
 ---
 
 My résumé as of 5/21: 
