@@ -1,3 +1,5 @@
 remote-theme: gildasio/darcli
 title: Alex Polywka
 description: Software Developer
+
+theme: jekyll-theme-slate
