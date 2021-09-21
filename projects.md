@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
-# CHIP-8 Interpreter Emualtor
+# CHIP-8 Interpreter Emulator
 ![preview](https://github.com/relliko/CHIP-8-Emulator/raw/master/preview.png)
 <br>
 <br>
