@@ -3,6 +3,12 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
+# CHIP-8 Interpreter Emualtor
+![preview](https://github.com/relliko/CHIP-8-Emulator/raw/master/preview.png)
+<br>
+<br>
+Used C and the SDL2 library to develop an emulator of the CHIP-8 interpreter system. Simulates the CPU and RAM of a system and reads opcodes from binary files to execute game programs by rendering graphics in a 64x32 pixel window.
+
 # fast-panopto
 ![fast-panopto layout](/images/fast-panopto.png)
 <br>
