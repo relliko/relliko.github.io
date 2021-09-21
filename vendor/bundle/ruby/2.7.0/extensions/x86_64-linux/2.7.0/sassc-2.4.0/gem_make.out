@@ -1,5 +1,5 @@
 current directory: /home/apolywka/code/relliko.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210507-28441-ung1kg.rb extconf.rb
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210921-14479-1bnf9gw.rb extconf.rb
 creating Makefile
 
 current directory: /home/apolywka/code/relliko.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
@@ -77,6 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/apolywka/code/relliko.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20210507-28441-1mkm1l3/sassc
-
-Permission denied @ rb_file_s_rename - (./.gem.20210507-28441-1mkm1l3/sassc, /home/apolywka/code/relliko.github.io/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/sassc-2.4.0/sassc)
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20210921-14479-1da15ln/sassc
